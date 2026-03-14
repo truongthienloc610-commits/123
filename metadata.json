@@ -1,0 +1,5 @@
+{
+  "name": "Arduino Replica",
+  "description": "A 1:1 replica of the Arduino.cc homepage for a web design competition.",
+  "requestFramePermissions": []
+}
